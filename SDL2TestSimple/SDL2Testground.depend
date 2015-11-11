@@ -587,3 +587,19 @@
 	<iostream>
 	"Jugador.h"
 
+1446841068 source:c:\users\olman\documents\github\tarea2-labprogra3\sdl2testsimple\jugador.cpp
+	"Jugador.h"
+
+1446574325 c:\users\olman\documents\github\tarea2-labprogra3\sdl2testsimple\jugador.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+
+1446786559 source:c:\users\olman\documents\github\tarea2-labprogra3\sdl2testsimple\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<iostream>
+	"Jugador.h"
+

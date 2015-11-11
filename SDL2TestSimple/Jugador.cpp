@@ -72,7 +72,7 @@ void Jugador::logica()
         }
     }
 
-    if(frames%1000==0)
+    if(frames%500==0)
     {
         current_texture++;
         if(current_texture>=textures.size())
@@ -80,6 +80,6 @@ void Jugador::logica()
     }
 
     frames++;
-    if(frames == 1000)
+    if(frames == 500)
         frames = 0;
 }
